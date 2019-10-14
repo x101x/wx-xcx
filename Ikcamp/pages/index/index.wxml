@@ -1,0 +1,3 @@
+<view class="wrapper">
+    <view class="group" wx:for="{{articleList}}"></view>
+</view>
